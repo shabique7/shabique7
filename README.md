@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Shabique Islam<br>🎓 Sophomore majoring in Electrical & Electronics Engineering  <br>🔧 Passionate about Embedded Systems, IoT, and Robotics <br>💡 Skilled in ESP32 programming, sensor integration, and PCB design using Altium Designer  <br>
+👋 Hello, I'm Shabique Islam<br>/n🎓 Sophomore majoring in Electrical & Electronics Engineering  <br>🔧 Passionate about Embedded Systems, IoT, and Robotics <br>💡 Skilled in ESP32 programming, sensor integration, and PCB design using Altium Designer  <br>
 
 
 ## 🌐 Socials:
